@@ -1,0 +1,19 @@
+<template>
+  <div>
+    <NuxtPage />
+  </div>
+</template>
+
+<script setup>
+// Root layout component
+</script>
+
+<style>
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+}
+</style>
