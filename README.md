@@ -104,7 +104,7 @@ This project demonstrates several important Vue.js and Nuxt.js concepts:
 
 ## 🌐 Live Demo
 
-[View Live Demo](https://your-deployed-app-url.com)
+[View Live Demo](https://task-manager-app-sigma-woad.vercel.app/)
 
 ## 🤝 Contributing
 
@@ -135,7 +135,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Abdulrahman Laoye**
 - GitHub: [@Abdulrahman843](https://github.com/Abdulrahman843)
-- LinkedIn: [LinkedIn](([https://www.linkedin.com/in/abdulrahman-adewale-laoye/]))
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdulrahman-adewale-laoye/)
 - Email: energyspur@gmail.com
 
 ## 🙏 Acknowledgments
